@@ -7,7 +7,6 @@ while(num <= 10){
 }
 
 
-
 let Num = 1;
 
 while(Num < 10){

@@ -4,5 +4,6 @@ console.log(result) // 4
 
 
 
+
 // short hand
 console.log(119%5) // 4

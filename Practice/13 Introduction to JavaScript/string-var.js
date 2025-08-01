@@ -8,7 +8,7 @@ console.log(typeof num); // 'number'
 var country = "Bangladesh"
 console.log(typeof country); // 'string'
 
-// voolean
+// boolean
 var isRich = true;
 console.log(isRich); // true
 

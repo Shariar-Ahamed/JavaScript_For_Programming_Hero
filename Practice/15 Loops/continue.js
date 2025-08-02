@@ -1,4 +1,4 @@
-// continue --> skip this interation
+// continue --> skip rest of the code for this interation
 // break --> i am done with this loop . loop end.
 
 
